@@ -3,7 +3,7 @@
   <groupId>org.maven.test</groupId>
   <artifactId>sample</artifactId>
   <version>0.2</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <dependencies> 
 		<dependency>
 			<groupId>com.aventstack</groupId>
